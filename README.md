@@ -1,5 +1,5 @@
 # Hi, I'm Reshma!
-👩🏻‍💻 Aspiring data analyst with Google Data Analytics Certification<br>
+👩🏻‍💻 Current data analytics trainee with Google Data Analytics Certification<br>
 👩🏻‍🎓 2024 graduate with B.Sc. (Hons.) Mathematics & Statistics, along with Computer Studies and Economics from Symbiosis International University<br>
 📊 Experienced in Python, SQL, R, Tableau, and Excel for data analysis and visualization
 
