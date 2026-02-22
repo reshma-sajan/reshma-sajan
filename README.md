@@ -13,13 +13,19 @@ MSc Data Science @ The London School of Economics and Political Science<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## My Projects:
-### 1. [Analysis of Fitness Data](https://github.com/reshma-sajan/Project---Analysis-of-Fitness-Data)
-Analyzed 6 years of GPS fitness tracker data from Runkeeper to uncover training patterns, track annual goals, and assess performance trends. Includes data cleaning, time series decomposition, and heart rate zone analysis.
+### 1. [GDP Forecasting & VAR Analysis](https://github.com/reshma-sajan/India-GDP-Forecasting)
 
-**Tools:** Python · Pandas · Matplotlib · Statsmodels
+Time-series econometric study applying ARIMA and VAR models to analyze GDP persistence and the dynamic relationship between GDP and FDI. Includes stationarity testing, lag selection, Granger causality, impulse response functions, and forecast evaluation.
+
+**Tools:** Python, Pandas, Statsmodels, NumPy, Matplotlib
 
 ### 2. [What Drives Debt at Age 25?](https://github.com/reshma-sajan/Analysis-of-Debt-Among-Young-Adults-in-the-UK)
 
 Multiple regression analysis of factors affecting personal debt among 25-year-olds using the Next Steps longitudinal study (n = 2,613). Examines how housing tenure, family socioeconomic background, ethnicity, and attitudes toward debt predict debt levels.
 
 **Tools:** R · ggplot2 · broom
+
+### 3. [Analysis of Fitness Data](https://github.com/reshma-sajan/Project---Analysis-of-Fitness-Data)
+Analyzed 6 years of GPS fitness tracker data from Runkeeper to uncover training patterns, track annual goals, and assess performance trends. Includes data cleaning, time series decomposition, and heart rate zone analysis.
+
+**Tools:** Python · Pandas · Matplotlib · Statsmodels
