@@ -13,11 +13,11 @@ MSc Data Science @ The London School of Economics and Political Science<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## My Projects:
-### 1. [GDP Forecasting & VAR Analysis](https://github.com/reshma-sajan/India-GDP-Forecasting)
+### 1. [Forecasting India's GDP & Analyzing FDI Dynamics](https://github.com/reshma-sajan/India-GDP-Forecasting)
 
-Time-series econometric study applying ARIMA and VAR models to analyze GDP persistence and the dynamic relationship between GDP and FDI. Includes stationarity testing, lag selection, Granger causality, impulse response functions, and forecast evaluation.
+Applied ARIMA and VAR models to forecast India's GDP and test whether FDI drives economic growth or vice versa. Granger causality results show GDP attracts FDI, not the other way around. Includes stationarity testing, impulse response analysis, and forecast evaluation.
 
-**Tools:** Python, Pandas, Statsmodels, NumPy, Matplotlib
+**Tools:** Python · Pandas · Statsmodels · Matplotlib
 
 ### 2. [What Drives Debt at Age 25?](https://github.com/reshma-sajan/Analysis-of-Debt-Among-Young-Adults-in-the-UK)
 
