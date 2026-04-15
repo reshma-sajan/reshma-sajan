@@ -23,7 +23,7 @@ Currently building **[Glimpse](link)** - a cross-domain visual similarity & tren
 
 ### [Glimpse - A Visual Similarity & Trend Engine Powered by CLIP](link)
 
-A cross-domain visual search tool that uses CLIP embeddings, FAISS, and unsupervised clustering to answer two questions from any image: *"what else looks like this?"* and *"what visual trends are emerging?"
+A cross-domain visual search tool that uses CLIP embeddings, FAISS, and unsupervised clustering to answer two questions from any image: *"What else looks like this?"* and *"What visual trends are emerging?"*
 
 **Tools:** Python · OpenAI CLIP · Streamlit
 
