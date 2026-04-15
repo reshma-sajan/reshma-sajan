@@ -1,7 +1,7 @@
 # Hi, I'm Reshma!
 MSc Data Science @ The London School of Economics and Political Science
 
-Currently building **[Glimpse](link)** - a cross-domain visual similarity & trend engine powered by CLIP, FAISS, and unsupervised clustering.<br>
+Currently building **[Glimpse](https://github.com/reshma-sajan/Glimpse)** - a cross-domain visual similarity & trend engine powered by CLIP, FAISS, and unsupervised clustering.<br>
 
 ## My Background:
 - B.Sc. (Hons.) Mathematics & Statistics, along with Computer Studies and Economics from Symbiosis International University<br>
@@ -21,7 +21,7 @@ Currently building **[Glimpse](link)** - a cross-domain visual similarity & tren
 
 ## Projects I'm Working On
 
-### [Glimpse - A Visual Similarity & Trend Engine Powered by CLIP](link)
+### [Glimpse - A Visual Similarity & Trend Engine Powered by CLIP](https://github.com/reshma-sajan/Glimpse)
 
 A cross-domain visual search tool that uses CLIP embeddings, FAISS, and unsupervised clustering to answer two questions from any image: *"What else looks like this?"* and *"What visual trends are emerging?"*
 
